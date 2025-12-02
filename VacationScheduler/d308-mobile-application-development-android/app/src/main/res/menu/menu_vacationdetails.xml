@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Save Vacation"
+        android:id="@+id/vacationsave"/>
+    <item android:title="Delete Vacation"
+        android:id="@+id/vacationdelete"/>
+    <item android:title="Add Excursions"
+        android:id="@+id/addexcursions"/>
+    <item android:title="Share Vacation Details"
+        android:orderInCategory="100"
+        android:id="@+id/share"/>
+    <item android:title="Set Alert for Start Date"
+        android:orderInCategory="100"
+        android:id="@+id/notifyStart"/>
+    <item android:title="Set Alert for End Date"
+        android:orderInCategory="100"
+        android:id="@+id/notifyEnd"/>
+
+
+
+
+</menu>
